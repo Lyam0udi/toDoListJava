@@ -22,7 +22,7 @@ public class AppFrame extends JFrame{
 		
 		this.add(title,BorderLayout.NORTH);
 		this.add(btnPanel,BorderLayout.SOUTH);
+		this.add(list,BorderLayout.CENTER);
 //		this.add(footer,BorderLayout.SOUTH);
-//		this.add(list,BorderLayout.CENTER);
 	}
 }
