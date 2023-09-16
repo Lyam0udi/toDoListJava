@@ -1,6 +1,6 @@
 package toDoListJavaClasses;
 
-import java.awt.Color;
+import java.awt.Component;
 import java.awt.GridLayout;
 
 import javax.swing.JPanel;
@@ -13,4 +13,6 @@ public class List extends JPanel{
 		this.setLayout(layout);
 //		this.setBackground(Color.black);
 	}
+	public void updateNumbers() {
+		Component[] listItems = this.getComponents();	}
 }

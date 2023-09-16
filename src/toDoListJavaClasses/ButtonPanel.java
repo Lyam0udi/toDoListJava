@@ -34,7 +34,7 @@ public class ButtonPanel extends JPanel {
 		this.add(clearTask);
 	}
 	
-	public JButton getNewTask(){
+	public JButton getAddTask(){
 		return addTask;
 	}
 	
