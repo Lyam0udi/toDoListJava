@@ -12,7 +12,7 @@ public class AppFrame extends JFrame{
 	
 	// Constructor 
 	AppFrame(){
-		this.setSize(400,800);
+		this.setSize(400,700);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setVisible(true);
 		
@@ -21,6 +21,7 @@ public class AppFrame extends JFrame{
 		btnPanel = new ButtonPanel();
 		
 		this.add(title,BorderLayout.NORTH);
+		this.add(btnPanel,BorderLayout.SOUTH);
 //		this.add(footer,BorderLayout.SOUTH);
 //		this.add(list,BorderLayout.CENTER);
 	}
