@@ -43,6 +43,7 @@ To run the To-Do List Java Application on your local machine, follow these steps
     ```
 
 ## Usage
+
   - Launch the application by following the installation instructions above.
   - Use the "Add Task" button to create a new task. Enter the task description in the text field that appears and press Enter or click "Done."
   - Mark tasks as completed by clicking the "Done" button next to each task.
