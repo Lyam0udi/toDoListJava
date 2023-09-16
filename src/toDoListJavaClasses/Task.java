@@ -48,25 +48,21 @@ public class Task extends JPanel{
 		
 	}
 	
-	public void changeIndex(int num)
-	{
+	public void changeIndex(int num){
 		this.index.setText(num+"");
 		this.revalidate();
 	}
 	
 	
-	public JButton getDone()
-	{
+	public JButton getDone(){
 		return done;
 	}
 	
-	public boolean getState()
-	{
+	public boolean getState(){
 		return checked;
 	}
 	
-	public void changeState()
-	{
+	public void changeState(){
 		this.setBackground(Color.green);
 		taskName.setBackground(Color.green);
 		checked = true;

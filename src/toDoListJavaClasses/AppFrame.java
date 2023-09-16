@@ -45,7 +45,7 @@ public class AppFrame extends JFrame{
 			{
 				Task task = new Task();
 				list.add(task);
-//				list.updateNumbers();
+				list.updateNumbers();
 				revalidate();
 				
 				
@@ -56,7 +56,7 @@ public class AppFrame extends JFrame{
 					{
 						
 						task.changeState();
-//						list.updateNumbers();
+						list.updateNumbers();
 						revalidate();
 						
 					}
