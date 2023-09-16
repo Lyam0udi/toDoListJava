@@ -22,7 +22,7 @@ The To-Do List Java Application is a simple task management tool built using Jav
 
 ## Demo
 
-![todolist](https://github.com/Lyam0udi/toDoListJava/assets/67929106/db881e6c-2f0f-4342-8e36-15e8d7b53fb1)
+<img ![todolist](https://github.com/Lyam0udi/toDoListJava/assets/67929106/db881e6c-2f0f-4342-8e36-15e8d7b53fb1) alt="Application Screenshot" width="400">
 
 
 ## Installation
