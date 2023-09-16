@@ -1,5 +1,4 @@
 # To-Do List Java Application
-![todolist](https://github.com/Lyam0udi/toDoListJava/assets/67929106/db881e6c-2f0f-4342-8e36-15e8d7b53fb1)
 
 ## Table of Contents
 
