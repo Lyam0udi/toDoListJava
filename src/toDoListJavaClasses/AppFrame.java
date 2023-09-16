@@ -66,14 +66,14 @@ public class AppFrame extends JFrame{
 		});
 		
 		
-//		clear.addMouseListener(new MouseAdapter()
-//		{
-//			@override
-//			public void mousePressed(MouseEvent e)
-//			{
-//				list.removeCompletedTasks();
-//				repaint();
-//			}
-//		});
+		clearTask.addMouseListener(new MouseAdapter()
+		{
+			@Override
+			public void mousePressed(MouseEvent e)
+			{
+				list.removeCompletedTasks();
+				repaint();
+			}
+		});
 	}
 }
